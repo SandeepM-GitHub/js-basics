@@ -1,0 +1,39 @@
+.container {
+    width: max-content;
+    height: max-content;
+    background-color: rgb(170, 166, 135);
+    padding: 120px;
+    font-weight: 800;
+}
+
+#height, #weight{
+    width: 150px;
+    height: 25px;
+    margin-top: 10px;  
+}
+
+#bmi-guide {
+    margin: 30px;
+}
+
+#results {
+    font-size: 40px;
+    margin: 50px;
+    color: black;
+}
+
+button {
+    width: 200px;
+    height: 40px;
+    margin: 25px;
+    border: solid 2px black;
+    border-radius: 10px;
+    font-size: larger;
+    font-weight: 800;
+}
+
+h1 {
+    padding-left: 15px;
+    padding-top: 25px;
+}
+
